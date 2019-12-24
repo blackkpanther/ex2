@@ -1,0 +1,11 @@
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.AssemblyInfo.cs
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\bin\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.deps.json
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\bin\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.runtimeconfig.json
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\bin\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.runtimeconfig.dev.json
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\bin\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.dll
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\bin\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.pdb
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.dll
+C:\Users\Me\source\repos\dotNet5780_02_8338_2406\dotNet5780_02_8338_2406\obj\Debug\netcoreapp2.1\dotNet5780_02_8338_2406.pdb
